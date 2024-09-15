@@ -1,4 +1,4 @@
-# <p align="center">iOS苹果翻墙指南：2024年最好用的iPhone苹果VPN推荐</p>
+# <p align="center">苹果iOS翻墙指南：2024年最好用的iPhone苹果VPN推荐</p>
 
 <p align="center">最近更新于：2024年9月15日</p>
 
