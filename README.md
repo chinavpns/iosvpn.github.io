@@ -138,11 +138,8 @@ ExpressVPN能够完美支持多种iPhone型号，用户可以在不同代iPhone�
 不仅在iPhone上，ExpressVPN在iPad设备上的兼容性同样出色，确保用户无论是在iPad上访问受限内容，还是保护个人隐私，都能获得最佳的使用体验。以下是支持的iPad型号：
 
 * iPad Pro系列：包括所有自2018年以来发布的iPad Pro型号，如iPad Pro 11英寸和iPad Pro 12.9英寸。这些设备搭载iPadOS，能够完美运行ExpressVPN，提供高速和稳定的VPN服务。
-
 * iPad Air系列：包括iPad Air 2、iPad Air 3、iPad Air 4和iPad Air 5。这些设备最低支持iOS 12或iPadOS 13，ExpressVPN在这些设备上兼容性良好，表现出色。
-
 * iPad Mini系列：包括iPad Mini 4、iPad Mini 5和iPad Mini 6。这些设备支持iPadOS，ExpressVPN在这些设备上运行顺畅，能够提供快速稳定的网络连接。
-
 * iPad系列：包括第五代到第九代的iPad设备，这些型号的iPad最低支持iPadOS 13，ExpressVPN在这些设备上提供流畅的VPN体验，确保用户在进行翻墙时获得最佳服务。
 
 通过这些详细的设备列表，你可以清楚了解ExpressVPN对iPhone和iPad设备的广泛支持，确保无论你使用的是最新的iPhone 16系列，还是旧款的iPhone 6S，都能够享受到ExpressVPN的高效VPN服务。
