@@ -83,29 +83,29 @@ ExpressVPN还以其优质的客户服务著称。无论你遇到任何问题，2
 
 **<p align="center"><a href=https://bit.ly/ep-vpn>立即获取ExpressVPN（30天免费）</a></p>**
 
-#### iPad和iPhone下载ExpressVPN iOS APP的方法： 
+### iPad和iPhone下载ExpressVPN iOS APP的方法： 
 
 由于政策原因，中国区App Store已下架了所有与VPN相关的应用，因此中国大陆用户可能无法在App Store中搜索并下载ExpressVPN的iOS客户端。如果遇到这种情况，可以尝试以下几种方法：
 
-方法一：注册美区Apple ID
+#### 方法一：注册美区Apple ID
 
 通过注册一个美区Apple ID，你可以在美国的App Store中搜索并下载ExpressVPN的iOS应用。如果不清楚如何注册美区Apple ID，请参考下文的详细教程。
 
-方法二：将Apple ID的地区修改为香港或其他海外地区
+#### 方法二：将Apple ID的地区修改为香港或其他海外地区
 
 如果不想注册新的Apple ID，可以将现有Apple ID的地区修改为香港或其他国家/地区，然后就可以在该地区的App Store中搜索并下载ExpressVPN的iOS应用。若要了解如何修改Apple ID的地区，请参考下文的详细教程。
 
-方法三：通过淘宝或其他第三方平台购买美区Apple ID
+#### 方法三：通过淘宝或其他第三方平台购买美区Apple ID
 
 你也可以通过淘宝或其他第三方平台直接购买一个已注册好的美区Apple ID。然后退出自己的Apple ID，登录购买的美区Apple ID，并在美区App Store中搜索并下载ExpressVPN的iOS应用。
 
-方法四：联系ExpressVPN官方客服
+#### 方法四：联系ExpressVPN官方客服
 
 如果不方便自行操作，你也可以直接联系ExpressVPN官方客服。他们可以为你提供一个美区Apple ID，帮助你顺利下载ExpressVPN的iOS客户端。
 
 通过这些方法，你可以顺利下载并安装ExpressVPN的iOS应用，享受其稳定的翻墙服务。
 
-#### ExpressVPN支持的iPhone设备和iPad设备：
+### ExpressVPN支持的iPhone设备和iPad设备：
 
 ExpressVPN能够完美支持多种iPhone型号，用户可以在不同代iPhone设备上享受高速稳定的VPN服务。以下是ExpressVPN支持的iPhone设备列表：
 
