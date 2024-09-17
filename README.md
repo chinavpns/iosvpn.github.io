@@ -200,7 +200,7 @@ Surfshark最大的特点之一是它不限制设备连接数。这意味着你�
 
 总之，Surfshark凭借其不限制设备连接数、高速稳定的服务器、安全的加密技术和友好的用户体验，成为iOS翻墙和iPhone翻墙用户的理想选择。无论你是需要解锁国际流媒体，保护个人隐私，还是进行大文件下载，Surfshark都能为你提供全面的保障和优质的服务。选择Surfshark，让你的苹果翻墙之旅更加自由、安全和畅快。
 
-**<p align="center"><a href="https://wallvpn.com/go/surfsharkvpn/“”>立即获取Surfshark</a></p>**
+**<p align="center"><a href="https://wallvpn.com/go/surfsharkvpn/">立即获取Surfshark</a></p>**
 
 ****
 
