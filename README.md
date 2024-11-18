@@ -149,7 +149,7 @@ ExpressVPN能够完美支持多种iPhone型号，用户可以在不同代iPhone�
 
 ****
 
-### iOS苹果VPN推荐（二）：<a href="https://wallvpn.com/go/purevpn/">PureVPN - 老牌iOS VPN，安全好用，价格便宜，2.11美金/月</a>
+### iOS苹果VPN推荐（二）：<a href="https://wallvpn.com/go/purevpn/">PureVPN - 安全好用，价格便宜，2.11美金/月</a>
 
 ![PureVPN Banner：iOS苹果翻墙，最好用的iPhone苹果VPN推荐](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/main/image/PureVPN-iOS-VPN.jpg)
 
