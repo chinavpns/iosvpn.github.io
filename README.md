@@ -336,19 +336,25 @@ AstrillVPN成立于2009年，以其卓越的翻墙稳定性和高速连接而闻
 
 由于中国区App Store已下架所有跟VPN相关的应用，中国大陆的iPhone用户在下载VPN应用时可能会面临诸多困难。要解决这一问题，最关键的一步是获取一个非中国区的Apple ID，这样便能顺利下载ExpressVPN等VPN应用。接下来，我们将介绍三种获取外区Apple ID的有效方法，帮助你绕过限制，轻松下载VPN应用。
 
-### 方法一：购买现成的美区 Apple ID（推荐）
+### 方法一：购买现成的美区Apple ID（推荐）
 
 对于大多数普通用户来说，最便捷的解决方案是直接购买一个现成的美区Apple ID。这种方式简单高效，省去了复杂的注册和设置流程。例如，银河录像局是一家专业提供外区Apple ID服务的平台，每个美区Apple ID售价仅为人民币20元，同时提供24小时在线客服支持和30天质保服务。购买后，该美区Apple ID可长期稳定使用，是满足VPN下载需求的理想选择。
 
 通过银河录像局购买美区Apple ID的步骤如下：
 
-#### 第一步：打开银河录像局官网，点击右上角的“登录/注册”按钮，使用手机号完成注册并登录。
+第一步：打开银河录像局官网，点击右上角的“登录/注册”按钮，使用手机号完成注册并登录。
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-#### 第二步：登录后，返回官网首页，依次点击“增值服务”和“苹果商店”。
+![购买美区Apple ID帐号第一步：打开银河录像局官网，点击右上角的“登录/注册”按钮，使用手机号完成注册并登录](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/refs/heads/main/image/iOS-VPN-1.png)
 
-#### 第三步：选择所需的Apple ID区域，如“美服”、“港服”、“日服”、“台服”、“韩服”或“土服”，并使用支付宝完成付款。
+第二步：登录后，返回官网首页，依次点击“增值服务”和“苹果商店”。
+
+![购买美区Apple ID帐号第二步：登录后，返回官网首页，依次点击“增值服务”和“苹果商店”](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/refs/heads/main/image/iOS-VPN-2.png)
+
+第三步：选择所需的Apple ID区域，如“美服”、“港服”、“日服”、“台服”、“韩服”或“土服”，并使用支付宝完成付款。
+
+![购买美区Apple ID帐号第三步：选择所需的Apple ID区域，如“美服”、“港服”、“日服”、“台服”、“韩服”或“土服”，并使用支付宝完成付款](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/refs/heads/main/image/iOS-VPN-3.png)
 
 OK，当你完成购买后，只需退出当前App Store的Apple ID账号，登录新购买的美区Apple ID账号，即可在App Store中搜索并下载ExpressVPN客户端，轻松完成安装。
 
