@@ -354,7 +354,7 @@ AstrillVPN成立于2009年，以其卓越的翻墙稳定性和高速连接而闻
 
 ![购买美区Apple ID帐号第三步：选择所需的Apple ID区域，如“美服”、“港服”、“日服”、“台服”、“韩服”或“土服”，并使用支付宝完成付款](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/refs/heads/main/image/iOS-VPN-3.png)
 
-OK，当你完成购买后，只需退出当前App Store的Apple ID账号，登录新购买的美区Apple ID账号，即可在App Store中搜索并下载ExpressVPN客户端，轻松完成安装。
+小结，当你完成购买后，只需退出当前App Store的Apple ID账号，登录新购买的美区Apple ID账号，即可在App Store中搜索并下载ExpressVPN客户端，轻松完成安装。
 
 ### 方法二：注册美区Apple ID
 
