@@ -104,7 +104,7 @@ ExpressVPN还以其优质的客户服务著称。无论你遇到任何问题，2
 
 由于政策原因，中国区App Store已下架了所有与VPN相关的应用，因此中国大陆用户可能无法在App Store中搜索并下载ExpressVPN的iOS客户端。如果遇到这种情况，可以尝试以下几种方法：
 
-* 方法一：通过“<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”购买现成的美区Apple ID帐号（推荐）。这种方法适合大多数普通用户，操作简单、安全可靠，价格便宜（仅需20元人民币），可长期使用。购买完美区Apple ID帐号后，只需退出当前的Apple ID，使用新购买的美区Apple ID登录App Store，然后即可搜索并下载ExpressVPN的iOS应用。具体操作步骤详见下文：美区Apple ID账号购买。
+* 方法一：通过“<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”购买现成的美区Apple ID帐号（推荐）。这种方法适合大多数普通用户，操作简单、安全可靠，价格便宜（仅需20元人民币），可长期使用。购买完美区Apple ID帐号后，只需退出当前的Apple ID，使用新购买的美区Apple ID登录App Store，然后即可搜索并下载ExpressVPN的iOS应用。具体操作步骤详见下文：<a href="https://github.com/chinavpns/iosvpn.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E8%B4%AD%E4%B9%B0%E7%8E%B0%E6%88%90%E7%9A%84%E7%BE%8E%E5%8C%BAapple-id%E6%8E%A8%E8%8D%90">美区Apple ID账号购买</a>。
 
 * 方法二，手动注册美区Apple ID（不推荐）：通过注册一个美区Apple ID，你可以在美国的App Store中搜索并下载ExpressVPN的iOS应用。如果不清楚如何注册美区Apple ID，请参考下文的详细教程。
 
