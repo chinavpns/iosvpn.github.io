@@ -167,6 +167,8 @@ PureVPN以其优质的客户服务和灵活的退款政策而闻名。无论用�
 
 **<p align="center"><a href="https://wallvpn.com/go/purevpn/">立即获取PureVPN，2.11美金/月</a></p>**
 
+注意：中国大陆用户如需下载PureVPN iOS应用，请参考“<a href="https://github.com/chinavpns/iosvpn.github.io?tab=readme-ov-file#%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDiphone%E8%8B%B9%E6%9E%9Cvpn">美区Apple ID购买</a>”教程！
+
 ****
 
 ### iOS苹果VPN推荐（三）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌iOS VPN，每月3.97美金，支持支付宝付款</a>
@@ -188,6 +190,8 @@ StrongVPN成立于2005年，是一款历史悠久的苹果VPN。虽然StrongVPN�
 总的来说，尽管StrongVPN在翻墙稳定性和连接速度方面的表现可能略逊于ExpressVPN，但它凭借强大的安全性、可靠的内容解锁能力以及优秀的兼容性和用户体验，依然是一款值得推荐的苹果VPN。不论是保护在线隐私、解锁流媒体内容，还是进行安全的数据传输，StrongVPN都能提供稳定且可靠的服务，为用户带来安全无忧的网络体验。
 
 **<p align="center"><a href="https://wallvpn.com/go/strong-vpn/">立即获取StrongVPN，支持支付宝付款</a></p>**
+
+注意：中国大陆用户如需下载StrongVPN iOS应用，请参考“<a href="https://github.com/chinavpns/iosvpn.github.io?tab=readme-ov-file#%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDiphone%E8%8B%B9%E6%9E%9Cvpn">美区Apple ID购买</a>”教程！
 
 ****
 
