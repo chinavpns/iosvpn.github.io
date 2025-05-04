@@ -1,6 +1,6 @@
 # <p align="center">苹果iOS翻墙指南：2025年最好用的iPhone苹果VPN推荐</p>
 
-<p align="center">最近更新于：2025年3月13日</p>
+<p align="center">最近更新于：2025年5月4日</p>
 
 ![iOS翻墙，iPhone翻墙，苹果翻墙，苹果VPN，iOS VPN，苹果翻墙软件，iOS翻墙软件](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/main/image/%E8%8B%B9%E6%9E%9CiOS%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E8%8B%B9%E6%9E%9CVPN%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.png)
 
@@ -649,7 +649,7 @@ iVacyVPN在全球范围内有一定的知名度，并因其多样化的功能和
 
 总的来说，蓝灯VPN在中国市场的表现无法令人满意。尽管其在其他地区可能仍有一定的用户基础，但对于希望通过iPhone翻墙的中国用户来说，蓝灯VPN显然不是一个可靠的选择。为了确保稳定、安全的翻墙体验，建议避开蓝灯VPN，选择那些在中国表现更为稳定的苹果VPN服务商，如ExpressVPN、PureVPN和StrongVPN等。
 
-### 4，快连VPN - 有钓鱼嫌疑
+### 4，<a href="https://github.com/chinavpns/letsvpn">快连VPN</a> - 有钓鱼嫌疑
 
 快连VPN在市场上也有一定的知名度，但其安全性和隐私保护问题严重。许多用户反映，快连VPN存在钓鱼嫌疑，用户的个人信息和浏览数据可能被恶意收集并出售给第三方。这对于希望通过iOS翻墙保护隐私的用户来说，是一个极大的风险。
 
