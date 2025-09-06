@@ -94,11 +94,11 @@ iOS翻墙过程中，安全性和隐私保护同样不可忽视。一款优秀�
 
 ExpressVPN还以其优质的客户服务著称。无论你遇到任何问题，24小时在线客服都会随时为你提供帮助。无论是安装过程中遇到困难，还是使用中出现疑问，专业的客服团队都能快速、有效地解决你的问题。此外，ExpressVPN还提供30天无理由退款保证，让你可以放心试用，如不满意可随时取消服务并全额退款。
 
-在价格方面，ExpressVPN推出了黑五限时特惠，现在购买两年套餐可额外获赠6个月，每月仅需4.99美元；购买一年套餐则额外赠送4个月，每月仅需6.25美元。值得一提的是，这是ExpressVPN史上最大力度的优惠折扣，黑五活动结束后将恢复原价。
+在价格方面，ExpressVPN推出了限时特惠，现在购买两年套餐可额外获赠4个月，每月仅需3.49美元；购买一年套餐则额外赠送3个月，每月仅需4.99美元。
 
-![ExpressVPN价格：iOS苹果翻墙，最好用的iPhone苹果VPN推荐](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
+![ExpressVPN价格：iOS苹果翻墙，最好用的iPhone苹果VPN推荐](https://raw.githubusercontent.com/chinavpns/iosvpn.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC-1.png)
 
-总的来说，ExpressVPN以其卓越的速度、安全性和用户体验，成为了iOS翻墙和iPhone翻墙的最佳选择。无论你是需要观看高清流媒体，进行种子下载，还是保护在线隐私，ExpressVPN都能为你提供全方位的保障。现在就点击我们的链接，立即体验ExpressVPN的强大功能，享受额外6个月的免费使用时间，让你的苹果翻墙之旅更加畅快无忧。
+总的来说，ExpressVPN以其卓越的速度、安全性和用户体验，成为了iOS翻墙和iPhone翻墙的最佳选择。无论你是需要观看高清流媒体，进行种子下载，还是保护在线隐私，ExpressVPN都能为你提供全方位的保障。现在就点击我们的链接，立即体验ExpressVPN的强大功能，享受额外4个月的免费使用时间，让你的苹果翻墙之旅更加畅快无忧。
 
 **<p align="center"><a href="https://wallvpn.com/go/expressvpn/">立即获取ExpressVPN（30天免费）</a></p>**
 
